@@ -8,3 +8,4 @@
 6. git log // para ver el listado de commit 
 7. git commit --amend // modifica mi ultimo commit, para modificar se preciona tecla (i) insert, para salir se preciona esc, luego :wq!
 8. git checkout -b rama-program //para crear una nueva rama, -b es branch 
+9. git checkout master  // cambia de rama
