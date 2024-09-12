@@ -9,3 +9,7 @@
 7. git commit --amend // modifica mi ultimo commit, para modificar se preciona tecla (i) insert, para salir se preciona esc, luego :wq!
 8. git checkout -b rama-program //para crear una nueva rama, -b es branch 
 9. git checkout master  // cambia de rama
+10. git merge rama-lenguajes // fucionar los cambios 
+11. git branch -d //para borrar una rama 
+12. git push //despliega el archivo en githup
+13. git commit -am // evita hacer el git add . y git commit -m
